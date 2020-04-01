@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Kirill\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(335): warning C4715:  start: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> C:\Users\Kirill\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
